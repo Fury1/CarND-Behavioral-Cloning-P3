@@ -1,1 +1,2 @@
 # CarND-Behavioral-Cloning-P3
+This is the third project in the Udacity Self Driving ND program. In this project it was required to train a deep learning model how to drive a car around a track in a simulator. Included in the repo is a writeup on how the final model was created, a video of the car driving itself around the track, the architecture code, a drive.py script to run the vehicle in the simulator, and the final model.
